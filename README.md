@@ -1,5 +1,10 @@
 # t-design-小程序模板
 
+t-design小程序模板. 包含:
+- t-design
+- sass
+- typescript
+
 ## 开发
 
 1. 克隆此项目
